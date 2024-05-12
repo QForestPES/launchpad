@@ -13,7 +13,9 @@ If you are, then that's amazing! You're about to be introduced to a whole new wo
   - [IBM Qiskit Textbook](https://qiskit.org/textbook/ch-prerequisites/linear_algebra.html): Linear algebra for quantum computation.  
   - [Quantum Algorithms via Linear Algebra](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149911380.pdf): Feel free to refer to topics in chapters 1-6 for queries related to the math behind quantum computing.
   - [Teach Me Quantum](https://github.com/msramalho/Teach-Me-Quantum): An open-source university-level course on Quantum Computing and Quantum Information Science that incorporates IBM Q Experience and Qiskit. 
-  
+  - [GitHub resource for all QC Books](https://github.com/poig/Qc_book_list) : A Collection of many QC Books from beginner to advanced level
+
+
 - _Next steps:_
   - [IBM Qiskit Textbook](https://qiskit.org/textbook/ch-states/representing-qubit-states.html): Representing qubits
   - [Single qubit gates](https://medium.com/@jonathan_hui/qc-programming-with-quantum-gates-8996b667d256): Operations on a single qubit.
